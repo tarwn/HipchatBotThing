@@ -1,0 +1,11 @@
+{
+	"name": "hipchat-bot-thing",
+	"displayName": "Hipchat Bot Thing",
+	"description": "Sample hipchat bot thing",
+	"author": {
+	  "name": "Eli Weinstock-Herman (@tarwn)",
+	  "url": "http://tiernok.com"
+	},
+
+	"engines":{"node": "0.11.14"}
+}
